@@ -12,7 +12,7 @@
 
     controller: function(){
       var $ctrl = this;
-      $ctrl.whatToWear(temperature, eventType){
+      $ctrl.whatToWear(temperature, eventType) {
 
       }
 

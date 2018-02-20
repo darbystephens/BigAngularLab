@@ -3,5 +3,5 @@
 
 
   angular
-    .module("WearApp", []);
+    .module("WearApp", ["ngRoute"]);
 })();

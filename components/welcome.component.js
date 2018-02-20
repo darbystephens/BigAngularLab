@@ -2,5 +2,7 @@
 
 
 
-
+  angular
+    .module("WearApp")
+    .component("welcomeComponent")
 })();

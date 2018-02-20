@@ -13,7 +13,7 @@
     controller: function(){
       var $ctrl = this;
       $ctrl.whatToWear(temperature, eventType){
-        
+
       }
 
     }
@@ -22,7 +22,9 @@
 
   }
 
-
+  angular
+    .module("WearApp")
+    .component("formComponent",formComponent)
 
 
 })();

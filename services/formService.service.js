@@ -2,7 +2,7 @@
 
 
   angular
-    .module()
+    .module("WearApp")
     .factory("FormService",FormService)
 
 })();

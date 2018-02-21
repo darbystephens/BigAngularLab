@@ -3,7 +3,7 @@
     template: `
     <div class="main">
     <h1>Welcome to WHAT TO WEAR to GRAND CIRCUS<h1>
-    <button type="button">Click here to make your weather related saratorial dreams come true</button>
+    <button type="button">Click here to make your weather related sartorial dreams come true</button>
     </div>
     
     `,
